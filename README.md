@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/artshishkin/testing-java-junit5-ci.svg?style=svg)](https://circleci.com/gh/artshishkin/testing-java-junit5-ci)
+
 # Introduction to JUnit 5 with Maven
 
 My fork of studying Testing with JUnit 
